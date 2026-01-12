@@ -87,6 +87,6 @@ Note: This project was developed primarily to solidify my understanding of Objec
 Thank you for taking the time to review my work!
 
 📄 License
-This project is licensed under the MIT License - feel free to use it for educational purposes.
+This project is licensed under the Apache License - feel free to use it for educational purposes.
 
 Author: [Huong Nguyen Quoc]
